@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\apps\\Tools\\VisualStudio\\Projects\\SportProgramming\\Contests\\Intensiv 11.03-15.03\\In-person visit\\CONTEST\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2CC48C03-5C30-492C-9290-911298E51874}|3_Sergo\\3_Sergo.vcxproj|D:\\apps\\Tools\\VisualStudio\\Projects\\SportProgramming\\Contests\\Intensiv 11.03-15.03\\In-person visit\\CONTEST\\3_Sergo\\3_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2CC48C03-5C30-492C-9290-911298E51874}|3_Sergo\\3_Sergo.vcxproj|solutionrelative:3_Sergo\\3_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,19 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "3_main.cpp",
-              "DocumentMoniker": "D:\\apps\\Tools\\VisualStudio\\Projects\\SportProgramming\\Contests\\Intensiv 11.03-15.03\\In-person visit\\CONTEST\\3_Sergo\\3_main.cpp",
-              "RelativeDocumentMoniker": "3_Sergo\\3_main.cpp",
-              "ToolTip": "D:\\apps\\Tools\\VisualStudio\\Projects\\SportProgramming\\Contests\\Intensiv 11.03-15.03\\In-person visit\\CONTEST\\3_Sergo\\3_main.cpp",
-              "RelativeToolTip": "3_Sergo\\3_main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-08T09:59:47.382Z",
-              "EditorCaption": ""
             }
           ]
         }
