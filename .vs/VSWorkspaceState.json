@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\MainTasks",
-    "\\MainTasks\\MainTaskSolution",
-    "\\MainTasks\\MainTaskSolution\\Staples"
+    "\\MainTasks\\MainTaskSolution"
   ],
-  "SelectedNode": "\\MainTasks\\MainTaskSolution\\Staples\\Staples_main.cpp",
+  "SelectedNode": "\\MainTasks\\MainTaskSolution\\ReversNums",
   "PreviewInSolutionExplorer": false
 }
