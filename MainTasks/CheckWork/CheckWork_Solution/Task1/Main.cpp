@@ -6,7 +6,7 @@
 #include <cmath>
 
 using namespace std;
-
+    
 int main() {
     const double PI = acos(-1.0);
     int beta, t, a;
