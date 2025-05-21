@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\MainTasks",
-    "\\MainTasks\\MainTaskSolution"
+    "\\MainTasks\\MainTaskSolution",
+    "\\MainTasks\\MainTaskSolution\\CheckWork"
   ],
-  "SelectedNode": "\\MainTasks\\MainTaskSolution\\ReversNums",
+  "SelectedNode": "\\MainTasks\\MainTaskSolution\\CheckWork",
   "PreviewInSolutionExplorer": false
 }
