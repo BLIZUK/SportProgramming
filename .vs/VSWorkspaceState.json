@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\MainTasks",
-    "\\MainTasks\\MainTaskSolution",
-    "\\MainTasks\\MainTaskSolution\\CheckWork"
+    "\\MainTasks\\CheckWork",
+    "\\MainTasks\\CheckWork\\CheckWork_Solution",
+    "\\MainTasks\\MainTaskSolution"
   ],
-  "SelectedNode": "\\MainTasks\\MainTaskSolution\\CheckWork",
+  "SelectedNode": "\\MainTasks\\MainTaskSolution\\MainTaskSolution.sln",
   "PreviewInSolutionExplorer": false
 }
